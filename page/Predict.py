@@ -45,7 +45,7 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 # Load model (uncomment when model is available)
-# model = load_model("effnet.h5")
+model = load_model("effnet.h5")
 
 # Classname mapping
 classname = {
