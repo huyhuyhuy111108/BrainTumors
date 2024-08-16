@@ -1,0 +1,1 @@
+**:red[U thần kinh đệm (glioma)]** là loại u não bắt nguồn từ các tế bào thần kinh đệm trong hệ thần kinh trung ương. U này có thể lành tính hoặc ác tính, gây ra các triệu chứng như đau đầu, co giật và yếu liệt.
